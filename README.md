@@ -1,10 +1,7 @@
-Hi 👋 My name is Ilia!
-=====================
-
-Junior Frontend Developer
+Frontend Developer
 -------------------------
 
-I'm currently studying at [Hexlet.io](https://ru.hexlet.io/u/mxclg) and looking for a team to work on interesting projects. I specialize in JavaScript, HTML, CSS, and enjoy creating clean and efficient code. I have experience with Test-Driven Development (TDD), writing autotests with Jest, and building responsive web applications.
+I'm looking for a team to work on interesting projects. I specialize in JavaScript, HTML, CSS, and enjoy creating clean and efficient code. I have experience with Test-Driven Development (TDD), writing autotests with Jest, and building responsive web applications.
 
 * 🌍  I'm based in Belgrade
 * ✉️  You can contact me at [ilmksmv@gmail.com](mailto:ilmksmv@gmail.com) or on Telegram [@mxclg](https://t.me/mxclg)
