@@ -1,4 +1,4 @@
-I'm a **JavaScript** and **Node.js** developer.
+I'm a **JavaScript**, **TypeScript**  and **Node.js** developer.
 
 I build web applications with **React**. Also create CLI apps and chatbots.
 
